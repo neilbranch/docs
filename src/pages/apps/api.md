@@ -21,7 +21,7 @@
           "campaign": "new product",
           "stage": "new user",
           "tags": ["one", "two", "three"],
-          "type":2,
+          "type": 2,
           "data": {
             "$canonical_identifier": "content/123",
             "$og_title": "Title from Deep Link",
