@@ -21,11 +21,13 @@
           "campaign": "new product",
           "stage": "new user",
           "tags": ["one", "two", "three"],
+          "type":2,
           "data": {
             "$canonical_identifier": "content/123",
             "$og_title": "Title from Deep Link",
             "$og_description": "Description from Deep Link",
             "$og_image_url": "http://www.lorempixel.com/400/400/",
+            "$marketing_title": "API Link",
             "$desktop_url": "http://www.example.com",
             "custom_boolean": true,
             "custom_integer": 1243,
