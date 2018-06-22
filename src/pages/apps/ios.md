@@ -429,13 +429,13 @@
     - *Swift 3*
 
         ```swift
-        buo.automaticallyListOnSpotlight = true
+        buo.locallyIndex = true
         ```
 
     - *Objective-C*
 
         ```objc
-        buo.automaticallyListOnSpotlight = YES;
+        buo.locallyIndex = YES;
         ```
 
 - ### Track content
